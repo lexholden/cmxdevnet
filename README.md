@@ -5,7 +5,7 @@ A small, primitive test of the CMX api used at the devnet hackathon. We took co-
 
 Future versions intended to allow pushing of APIC EM policies favouring devices in particular areas of the space (e.g. prioritizing traffic to the hackathon space during the hack, but to the theatre space during a talk by a particular Vice President). Using temperature and humidity sensors would also have been added.
 
-![Screenshot of Application](/screens/screen1.png "Screenshot")
+![Screenshot of Application](/screens/screen.png "Screenshot")
 
 Be warned, in its current state this was built for a hackathon, so there is messy code all over the place.
 
