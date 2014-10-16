@@ -46,7 +46,6 @@ function getTotalDevices() {
 	    //data: '{"start_time":"2014-05-19T14:18:40.990-0700", "end_time":"2014-05-19T14:18:40.990-0700"}',
 	    success: function( data ) {
 	    		totals = JSON.parse(data);
-	    		console.log
 	    		
     			$("#today").html("Unique Devices Today: " + totals["unique_devices"]);
 	    	}
